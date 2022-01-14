@@ -9,7 +9,7 @@ from LeNet5 import LeNet5
 import torch.optim as optim
 import time
 
-
+# good
 numbers = Image.open('num.png')
 num_list = []
 for i in range(10):
